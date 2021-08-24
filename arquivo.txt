@@ -1,2 +1,2 @@
 Segunda versao do arquivo
-Versão: 1.2.0
+Versão: 1.1.0
