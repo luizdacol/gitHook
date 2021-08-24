@@ -1,0 +1,16 @@
+/home/luiz-alencar/Documents/projetos/gitHook/bin/Debug/net5.0/gitHook
+/home/luiz-alencar/Documents/projetos/gitHook/bin/Debug/net5.0/gitHook.deps.json
+/home/luiz-alencar/Documents/projetos/gitHook/bin/Debug/net5.0/gitHook.runtimeconfig.json
+/home/luiz-alencar/Documents/projetos/gitHook/bin/Debug/net5.0/gitHook.runtimeconfig.dev.json
+/home/luiz-alencar/Documents/projetos/gitHook/bin/Debug/net5.0/gitHook.dll
+/home/luiz-alencar/Documents/projetos/gitHook/bin/Debug/net5.0/ref/gitHook.dll
+/home/luiz-alencar/Documents/projetos/gitHook/bin/Debug/net5.0/gitHook.pdb
+/home/luiz-alencar/Documents/projetos/gitHook/obj/Debug/net5.0/gitHook.csproj.AssemblyReference.cache
+/home/luiz-alencar/Documents/projetos/gitHook/obj/Debug/net5.0/gitHook.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz-alencar/Documents/projetos/gitHook/obj/Debug/net5.0/gitHook.AssemblyInfoInputs.cache
+/home/luiz-alencar/Documents/projetos/gitHook/obj/Debug/net5.0/gitHook.AssemblyInfo.cs
+/home/luiz-alencar/Documents/projetos/gitHook/obj/Debug/net5.0/gitHook.csproj.CoreCompileInputs.cache
+/home/luiz-alencar/Documents/projetos/gitHook/obj/Debug/net5.0/gitHook.dll
+/home/luiz-alencar/Documents/projetos/gitHook/obj/Debug/net5.0/ref/gitHook.dll
+/home/luiz-alencar/Documents/projetos/gitHook/obj/Debug/net5.0/gitHook.pdb
+/home/luiz-alencar/Documents/projetos/gitHook/obj/Debug/net5.0/gitHook.genruntimeconfig.cache
